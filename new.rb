@@ -37,3 +37,4 @@ class Car
 end
 
 Car.move("右")
+Car.move("右")
